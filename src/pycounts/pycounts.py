@@ -14,7 +14,7 @@ def clean_text(text):
         text = text.replace(p, "")
     return text
 
-def count_wordss(input_file):
+def count_words(input_file):
     """Count unique words in a string."""
     text = load_text(input_file)
     text = clean_text(text)
