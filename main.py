@@ -19,5 +19,4 @@ def count_words(input_file):
     text = load_text(input_file)
     text = clean_text(text)
     words = text.split()
-    pass
     return Counter(words)
