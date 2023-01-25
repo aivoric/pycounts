@@ -1,12 +1,9 @@
 [tool.poetry]
-name = "pycounts-ik"
+name = "pycountsik"
 version = "0.1.0"
 description = ""
-authors = ["Ivan Khokhlov <khokhlov.ivan@protonmail.com>"]
+authors = ["Aivoric"]
 readme = "README.md"
-packages = [
-    { include = "src/pycounts-ik" }
-]
 
 [tool.poetry.dependencies]
 python = ">=3.10.0"
