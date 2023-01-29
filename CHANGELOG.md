@@ -2,6 +2,10 @@
 
 <!--next-version-placeholder-->
 
+## v0.4.0 (2023-01-29)
+### Feature
+* Add CI/CD workflow ([`3bda096`](https://github.com/aivoric/pycounts/commit/3bda096123e9e1f03882d1ddd6c6268775c67baa))
+
 ## v0.2.0 (10/09/2021)
 
 ### Feature
